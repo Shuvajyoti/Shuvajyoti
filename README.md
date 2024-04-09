@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome&fontSize=50)
 
-<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img alt="Coding" width="400" src="https://github.com/Shuvajyoti/Shuvajyoti/blob/main/logo.gif">
 
 <h2> 👨🏻‍💻 &nbsp;More about me</h2>
 
