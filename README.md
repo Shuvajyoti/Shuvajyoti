@@ -1,18 +1,68 @@
-### About me
-I am an engineer and coding enthusiast. I like learning new technologies that build the web, mobile, AI. I am keen to improve design and security.
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome&fontSize=50)
 
-- 🔭 I’m currently working on ...
-  - I am working on various .Net applications with focus on security and clean code. Along with it I work on devops, automation, ...
+<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning ...
-  - I am learning React, Machine learning, building Copilots.
+<h2> 👨🏻‍💻 &nbsp;More about me</h2>
 
-- 👯 I’m looking to collaborate on ...
-  - Any web, mobile application development, AI/Copilot projects.
+```yaml
+name: Shuvajyoti Deb
+located_in: Hyderabad, IN
+current_job: Software Engineer
+goal:
+  [
+    "Build scalable applications with focus on performance, security and reliability.",
+  ]
 
-- 💬 Ask me about ...
-  - System design, Security, API design, Performance testing
+fields_of_interests:
+  [
+    "Backend Development",
+    "Web and mobile applications",
+    "Software Design",
+    "Security",
+    "Machine learning and AI",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Software engineer"
+    "Experience with .Net, Java and Spring",
+    "Experience with Azure with certifications",
+    "Automation - CI/CD"
+  ]
   
+currently_learning: ["React, Machine learning, and Copilots"]
+
+education:
+  [
+    "Engineering Bachelor's degree in Electronics and Communication, NIT Durgapur(2015)",
+  ]
+```
+  
+---  
+ 
+<br>
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+</p>
+
+---  
+ 
+<br>
+
+<p align="left">
+<h2> 💬 Connect on LinkedIn </h2>
+<br>
+<a href="https://www.linkedin.com/in/shuvajyoti-deb-19874912a/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>  
+</p>
 
 <!--
 **Shuvajyoti/Shuvajyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
