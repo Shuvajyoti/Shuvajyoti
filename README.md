@@ -2,7 +2,7 @@
 
 <img alt="Coding" width="400" src="https://github.com/Shuvajyoti/Shuvajyoti/blob/main/logo.gif">
 
-<h2> 👨🏻‍💻 &nbsp;More about me</h2>
+<h3> 👨🏻‍💻 &nbsp;More about me</h3>
 
 ```yaml
 name: Shuvajyoti Deb
@@ -26,7 +26,7 @@ technical_background:
   [
     "Software engineer"
     "Experience with .Net, Java and Spring",
-    "Experience with Azure with certifications",
+    "Experience with Azure",
     "Automation - CI/CD"
   ]
   
@@ -42,7 +42,7 @@ education:
  
 <br>
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3> 🚀 &nbsp;Tools and languages used..</h3>
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
@@ -57,12 +57,14 @@ education:
 <br>
 
 <p align="left">
-<h2> 💬 Connect on LinkedIn </h2>
+<h3> 💬 Connect on LinkedIn </h3>
 <br>
 <a href="https://www.linkedin.com/in/shuvajyoti-deb-19874912a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>  
 </p>
+
+---  
 
 <!--
 **Shuvajyoti/Shuvajyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
