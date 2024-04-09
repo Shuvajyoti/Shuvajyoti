@@ -1,4 +1,18 @@
-### Hi there 👋
+### About me
+I am an engineer and coding enthusiast. I like learning new technologies that build the web, mobile, AI. I am keen to improve design and security.
+
+- 🔭 I’m currently working on ...
+  - I am working on various .Net applications with focus on security and clean code. Along with it I work on devops, automation, ...
+
+- 🌱 I’m currently learning ...
+  - I am learning React, Machine learning, building Copilots.
+
+- 👯 I’m looking to collaborate on ...
+  - Any web, mobile application development, AI/Copilot projects.
+
+- 💬 Ask me about ...
+  - System design, Security, API design, Performance testing
+  
 
 <!--
 **Shuvajyoti/Shuvajyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
